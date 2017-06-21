@@ -1,2 +1,1 @@
-# servlet
-Servlet Example
+This is readme file of servlet project
