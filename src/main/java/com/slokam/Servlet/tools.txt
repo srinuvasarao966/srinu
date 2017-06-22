@@ -1,0 +1,20 @@
+LOG4J:
+sTEPS USE IN LOG4J
+
+1.jar--2.x.x
+
+2.Configurations -log4j2.xml
+
+3. Code in your class.
+import org.appache.logging.log4j.Logmanager
+import org.appache.logging.log4j.
+
+
+
+public static Logger log=LogManager.getLogger(StudentDao.class);
+log.info();
+log.Debug();
+log.trace();
+log.error();
+log.warn();
+log.fatal();
